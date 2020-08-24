@@ -18,3 +18,12 @@ toml==0.10.1
 virtualenv==20.0.30
 Werkzeug==1.0.1
 wrapt==1.12.1
+.git
+.idea
+projectapp
+projectname
+rango
+db.sqlite3
+manage.py
+populate_rango.py
+requirements.txt
